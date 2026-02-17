@@ -1,6 +1,6 @@
-- 👋 Hi, I’m ConduciveGDI, and formerly: InterpretCritic
+- 👋 Hi, I’m Innovation Dogs, and formerly: ConduciveGDI
 - 👀 I’m interested in Languages, Memes
-- 🌱 I’m currently learning C/C++ to migrate my executables to C/C++.
+- 🌱 I’m currently learning how to assemble computers.
 - 😄 Pronouns: doesn't matter
 - 🇵🇭 I'm from Philippines
 <!--- - 💞️ I’m looking to collaborate on ... 
